@@ -1,0 +1,7 @@
+PDB	Domain	Start	Stop
+4ncb.pdb	PIWI	461	685
+4ncb.pdb	MID	317	465
+4ncb.pdb	L2	268	315
+4ncb.pdb	PAZ	178	265
+4ncb.pdb	L1	103	177
+4ncb.pdb	N	5	99
