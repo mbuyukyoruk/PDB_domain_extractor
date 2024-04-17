@@ -8,7 +8,11 @@ This script is developed to fetch domain from PDB files.
 
 IMPORTANT! The input PDB file should be located in the same directory as the workdir directory (type "pwd" to terminal first to get the current workdir.)  
 
+<div align="center">
+
 ![](https://github.com/mbuyukyoruk/PDB_domain_extractor/blob/main/PDB_domain_extractor-ezgif.com-video-to-gif-converter.gif)
+
+<div align="left">
 
 UCSF-Chimera and Pychimera packages are required to fetch domains. Additionally, tqdm is required to provide a progress bar since some multifasta files can contain long and many sequences.
 
